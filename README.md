@@ -3,7 +3,7 @@
 Laravel 9 Ecommerce-My-shop is built in laravel 9 version and MySQL database for the backend. I'm also using Livewire Package in this Laravel 9 version. It has different features for the user like a user can view all the categories, view all products under specifc category, filter the products by brand and price, select a product and select the quantity and select the color and add the product to his cart. The user can add multiple products in cart and wishlist. There are payment methods in the checkout page such as COD.
 
 
-**feature**
+## feature
 Laravel 9 Ecommerce has various features listed below:
 
 Customer Side:
