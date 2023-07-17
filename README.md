@@ -1,3 +1,65 @@
+## About E-commerce-My-shop
+
+Laravel 9 Ecommerce-My-shop is built in laravel 9 version and MySQL database for the backend. I'm also using Livewire Package in this Laravel 9 version. It has different features for the user like a user can view all the categories, view all products under specifc category, filter the products by brand and price, select a product and select the quantity and select the color and add the product to his cart. The user can add multiple products in cart and wishlist. There are payment methods in the checkout page such as COD.
+
+
+**feature**
+Laravel 9 Ecommerce has various features listed below:
+
+Customer Side:
+
+    Login and Register
+    View all Categories
+    View all Products under specific categories.
+    Filter all Products by Brands and Price.
+    View a single product with an image and its details.
+    Select a color for the specific product before adding it to the cart. 
+    Product quantity increment/decrement before adding it to the cart.
+    Add to Cart.
+    Add to Wishlist.
+    Display Cart Items.
+    Display Wishlist Items.
+    Checkout Page.
+    Checkout Form validation before placing the order.
+    Checkout Payments like - COD.
+    Mail Notification - User gets a Mail Notification once the order is placed. 
+    User can view orders.
+    User can view each order and its details (like - order status, etc)
+    User Profile
+    Change Password option
+
+
+Admin Side:
+
+    Category CRUD
+    Product CRUD
+    a. Add, Edit, Update, Delete Products
+    b. Can add multiple images for the product.
+    c. Can add multiple colors for the product.
+    Brand CRUD - these brands are linked with products
+    Color CRUD - these colors are linked with products
+    Slider CRUD
+    Site Setting (Website Setting)
+    a. Basic website details
+    b. Social Media links which will be shown in frontend at footer area.
+    c. Contact/Office Information links which will be shown in frontend at footer area. 
+    User Management CRUD with Role
+    Order Management
+    a. View All Orders List
+    b. Filter orders by date and order-status
+    c. View each order with user & order details.
+    d. Invoice - View each order invoice
+    e. Invoice - Download each order invoice as PDF.
+    f. Invoice - Mail each order Invoice.
+    g. Order- Status - Update your order status (Eg. In-Porgress, Completed, Pending, Cancelled, etc).
+    All Statistics on Dashboard
+    a. Total Orders, Today Orders, this month order, this year order. 
+    b. Products, Users, etc.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
